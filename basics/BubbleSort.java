@@ -14,8 +14,7 @@ public class BubbleSort {
 					swap=true;
 				}
 				System.out.println(Arrays.toString(arr));
-			}
-			
+			}			
 		}
 		System.out.println("Bubble Sort:");
 		System.out.println(Arrays.toString(arr));
